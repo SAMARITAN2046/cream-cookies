@@ -1,2 +1,2 @@
-# Bolt
+# Learn Project
 go study
